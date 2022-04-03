@@ -1,0 +1,21 @@
+ //con este comando instalamos a nivel global 
+
+npm install -g create-react-app
+npm i -g
+
+//luego vamos a crear el proyecto
+
+npx  create-react-app  curso-udemy 
+
+// extension react para crear clases 
+
+ccc  componente de clases 
+rfc  componente funcional  
+rafce componente funcional flecha
+
+
+//actualizar dependencias 
+npm install -g npm-check-updates
+
+
+//props
